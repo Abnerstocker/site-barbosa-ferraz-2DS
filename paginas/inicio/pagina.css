@@ -87,7 +87,7 @@ body[data-pagina="inicio"] main {
 }
 
 .inicio-hero-texto {
-  color: var(--cor-texto-suave);
+  color: var(--cor-texto);
   font-size: 1.1rem;
 }
 
